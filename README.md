@@ -6,7 +6,7 @@ A native extension for Blender 5.0+ to import `.e57` point cloud files directly 
 
 Developed by Quentin Misslin.
 
-![Preview](preview.png)
+![Preview](preview.jpeg)
 
 ## About the E57 Format
 
