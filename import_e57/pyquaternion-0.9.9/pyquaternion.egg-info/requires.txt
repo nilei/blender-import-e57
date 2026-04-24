@@ -1,7 +1,0 @@
-numpy
-
-[dev]
-mkdocs
-
-[test]
-nose
