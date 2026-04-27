@@ -20,7 +20,7 @@ Unlike proprietary formats, E57 is designed to be universal, making it the indus
 ## Features
 
 * **Native PointCloud Object:** Converts E57 data directly into Blender's optimized PointCloud geometry.
-* **Offline Dependencies:** Includes pre-compiled `pye57` and `pyquaternion` wheels for Windows, macOS (ARM), and Linux. No internet connection required for installation.
+* **Bundled Dependencies:** Includes the required Python dependencies for supported platforms. No internet connection required during installation.
 * **Color Extraction:** Automatically extracts RGB data and maps it to the points.
 * **Normal Vectors:** Extracts surface normals and builds a toggleable Shader Node tree for orientation visualization.
 * **Point Radius Control:** Set the base radius of the points directly from the import menu.
